@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+      <class name="MavenFramework2.MavenProject1.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:MavenFramework2.MavenProject1.AppiumTest@8e24743]" name="IOSApps" duration-ms="1" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeAndroid()[pri:0, instance:MavenFramework2.MavenProject1.AppiumTest@8e24743]" name="nativeAndroid" duration-ms="1" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroid -->
+      </class> <!-- MavenFramework2.MavenProject1.AppiumTest -->
+      <class name="MavenFramework2.MavenProject1.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:MavenFramework2.MavenProject1.SeleniumTest@b7dd107]" name="browserAutomation" duration-ms="7" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="reportTest()[pri:0, instance:MavenFramework2.MavenProject1.SeleniumTest@b7dd107]" name="reportTest" duration-ms="1" started-at="2021-05-19T11:05:17 IST" finished-at="2021-05-19T11:05:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTest -->
+      </class> <!-- MavenFramework2.MavenProject1.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

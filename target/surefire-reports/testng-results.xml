@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+      <class name="MavenFramework2.MavenProject1.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:MavenFramework2.MavenProject1.AppiumTest@78e67e0a]" name="IOSApps" duration-ms="0" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="nativeAndroid()[pri:0, instance:MavenFramework2.MavenProject1.AppiumTest@78e67e0a]" name="nativeAndroid" duration-ms="0" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAndroid -->
+      </class> <!-- MavenFramework2.MavenProject1.AppiumTest -->
+      <class name="MavenFramework2.MavenProject1.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:MavenFramework2.MavenProject1.SeleniumTest@7a1ebcd8]" name="browserAutomation" duration-ms="3" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="reportTest()[pri:0, instance:MavenFramework2.MavenProject1.SeleniumTest@7a1ebcd8]" name="reportTest" duration-ms="0" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTest -->
+      </class> <!-- MavenFramework2.MavenProject1.SeleniumTest -->
+      <class name="MavenFramework2.MavenProject1.RESTApiTest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:MavenFramework2.MavenProject1.RESTApiTest@bd8db5a]" name="postJira" duration-ms="0" started-at="2021-06-29T10:04:09 IST" finished-at="2021-06-29T10:04:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- MavenFramework2.MavenProject1.RESTApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
